@@ -1,0 +1,58 @@
+body {
+    padding: 0px;
+    margin: 0px -15px 0px -15px;
+    font-family: 'Oswald', sans-serif !important;
+    font-weight: 300 !important;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+#homeimg {
+   height: 400px; 
+   width: auto;
+}
+
+header {
+    background-color: deeppink;
+    color: greenyellow;
+}
+
+header, section {
+    padding: 5% 5% 0px 5%;
+}
+
+h1 {
+    padding-top: 3px;
+    padding-bottom: 8px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+h1 {color:greenyellow; font-size: 4em; letter-spacing: 0.04em;}
+
+.whitelink {
+    inline-size: auto;
+    padding: 5px;
+    color:white
+}
+
+.active {
+    background-color: white;
+    color: blue
+ 
+    border-radius 0px 0px 0px 0px ;
+}
+
+
+.nounderline {
+    text-decoration: none;
+    padding: 20px 20px 0px 20px;
+}
+
+img:hover {
+    opacity: 0.5;
+  }
+  
+  
